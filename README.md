@@ -1,2 +1,2 @@
 # LANDING PAGE
-A basic portfolio using HTML&amp;CSS
+A basic Landing page using HTML&amp;CSS
